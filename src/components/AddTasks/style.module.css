@@ -1,0 +1,19 @@
+.addTaskSection {
+  background-color:#ffffff;
+  padding: 20px;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.title {
+  margin:10px 0px !important;
+  font-size:20px !important;
+  color:#99bc19;
+  font-weight:700;
+}
+
+.btn {
+  padding:12px !important;
+}
